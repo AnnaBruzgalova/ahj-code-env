@@ -1,4 +1,3 @@
-# Webpack5
+![CI][def]
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+[def]: https://github.com/AnnaBruzgalova/ahj-code-env/actions/workflows/web.yml/badge.svg
